@@ -67,7 +67,9 @@ These insights support stakeholders in tracking key business metrics and making 
 ## 👩🏽‍💻 About Me
 Hi there! I'm Melissa Aoko, a third-year Computer Science student with a strong interest in data analytics and data engineering. I have experience working with database management systems, including SQL Server and MySQL, as well as data analysis and visualization tools like Excel, Python and Power BI.
 
-I enjoy working with data end-to-end—from cleaning and structuring raw datasets to building models and generating insights. My strengths include attention to detail, clear documentation, and translating business requirements into practical, data-driven solutions. I am actively seeking opportunities in data analytics and related roles.
+I enjoy working with data end-to-end—from cleaning and structuring raw datasets to building models and generating insights. My strengths include attention to detail, clear documentation, and translating business requirements into practical, data-driven solutions.
+
+Feel free to connect with me: https://www.linkedin.com/in/melissa-aoko/
 
 ---
 
